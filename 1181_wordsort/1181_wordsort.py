@@ -1,3 +1,4 @@
+# 팰린드롬 수 - 어떤 단어를 앞뒤 어디서 읽어도 똑같은 수
 n = int(input())
 word = []
 for i in range(n):
